@@ -19,16 +19,23 @@
       </header>
       <div id="features">
         <h3>Features</h3>
-        <p>Our trombones use the shiniest brass, which is sourced locally. This will increase the longevity of your purchase.</p>
+        <p>Our trombones use the shiniest brass which is sourced locally. This will increase the longevity of your purchase.</p>
       </div>
       <div id="how-it-works">
         <h3>How It Works</h3>
-        <p>We make sure you receive your trombone as soon as we have finished making it. We also provide free returns if you are not satisfied.</p>
+        <p>We make sure you recieve your trombone as soon as we have finished making it. We also provide free returns if you are not satisfied.</p>
         </div>
       <div id="pricing">
         <h3>Pricing</h3>
         <p>For every purchase you make, we will ensure there are no damages or faults and we will check and test the pitch of your instrument.</p>
       </div>
+      <iframe width="560" height="315" src="https://www.youtube.com/embed/OXGznpKZ_sA?si=7AD6sdUkEp8LFQst" id="video" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+      <form id="form" action="https://www.freecodecamp.com/email-submit">
+        <input id="email" name="email" placeholder="email address" type="email"></input>
+<input type="submit" id="submit" value="Submit">
+      </form>
     </main>
   </body>
 </html>
+
+/*COME BACK AND WORK ON THIS. THIS IS JUST A SAMPLE TEMPLATE*/
